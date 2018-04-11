@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/kunkkaliu/koa2-prerender/issues"
   },
-  "homepage": "https://github.com/kunkkaliu/koa2-prerender#readme"
+  "homepage": "https://github.com/kunkkaliu/koa2-prerender#readme",
+  "dependencies": {
+    "request": "^2.85.0",
+    "request-promise-native": "^1.0.5",
+    "url": "^0.11.0"
+  }
 }
